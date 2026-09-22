@@ -1,7 +1,7 @@
 # Project guidance
 
 This repository contains only the public SuperReview website. Edit files in `public/`.
-The library and skill live in `AutobotsAITech/SuperReview`.
+The library and skill live in `OmniTensorLabs/SuperReview`.
 
 Keep copy concise and factual. Do not add personal data, credentials, internal notes,
 private source material, or unsupported accuracy claims. Commit metadata may use a

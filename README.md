@@ -1,6 +1,6 @@
 # SuperReview website
 
-The website for [SuperReview](https://github.com/AutobotsAITech/SuperReview),
+The website for [SuperReview](https://github.com/OmniTensorLabs/SuperReview),
 an open-source code review skill by [OmniTensorLabs](https://www.omnitensorlabs.com/).
 
 **Live site:** https://superreview.omnitensorlabs.com/
